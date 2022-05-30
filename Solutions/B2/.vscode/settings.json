@@ -1,0 +1,10 @@
+{
+  "cucumber.glue": [
+    "BddWithSpecFlow.GeekPizza.Specs/StepDefinitions/**/*.cs",
+    "BddWithSpecFlow.GeekPizza.API.Specs/StepDefinitions/**/*.cs",
+  ],
+  "cucumber.features": [
+    "BddWithSpecFlow.GeekPizza.Specs/**/*.feature",
+    "BddWithSpecFlow.GeekPizza.API.Specs/**/*.feature"
+  ]
+}
